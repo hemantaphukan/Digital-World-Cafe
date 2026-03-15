@@ -17,6 +17,7 @@ const CATEGORIES = [
   { id: 'uid-user', label: 'UID User', icon: Fingerprint },
   { id: 'birth', label: 'Online Birth Portal', icon: FileText },
   { id: 'findmaster', label: 'FindMaster Portal', icon: Globe },
+  { id: 'manual-print-v2', label: 'Manual Print Portal v.2', icon: Printer },
 ] as const;
 
 type CategoryId = typeof CATEGORIES[number]['id'];
@@ -27,7 +28,7 @@ const EXTERNAL_LINKS = [
   { id: 10, category: 'uid-user', label: 'Aadhaar Status', url: 'https://myaadhaar.uidai.gov.in/CheckAadhaarStatus/en', icon: Search, description: 'Check your Aadhaar application or update status online.' },
   { id: 11, category: 'uid-user', label: 'Mobile Link Status', url: 'https://myaadhaar.uidai.gov.in/check-aadhaar-validity/en', icon: Smartphone, description: 'Verify which mobile number is linked to your Aadhaar.' },
   { id: 33, category: 'uid-user', label: 'Verify Aadhaar', url: 'https://myaadhaar.uidai.gov.in/verifyAadhaar', icon: ShieldCheck, description: 'Verify any Aadhaar number to check its validity.' },
-  { id: 36, category: 'uid-user', label: 'UID Client v.0.1', url: 'https://work.newskill.fun/portallogin/login.php', icon: ShieldCheck, description: 'Direct access to the UID Client management portal.' },
+  { id: 36, category: 'uid-user', label: 'UID Client v.0.1', url: 'https://digiucore.in/login.php', icon: ShieldCheck, description: 'Direct access to the UID Client management portal.' },
 
   // Citizen Services (Tab 4)
   { id: 13, category: 'citizen', label: 'PAN-Aadhaar Link', url: 'https://eportal.incometax.gov.in/iec/foservices/#/pre-login/link-aadhaar-status', icon: LinkIcon, description: 'Check Income Tax PAN and Aadhaar linkage status.' },
@@ -64,12 +65,13 @@ const EXTERNAL_LINKS = [
   { id: 35, category: 'print2', label: 'NewSkill Prints', url: 'https://newskill.fun/login.php', icon: Printer, description: 'Access NewSkill integrated printing and document portal.' },
   { id: 30, category: 'print2', label: 'API Print Portal', url: 'https://apimarket.online/login', icon: Printer, description: 'Access the professional API Print Portal for high-volume document needs.' },
   { id: 38, category: 'print2', label: 'Rekha Print Portal', url: 'https://rekhaprint.co/members/login', icon: Printer, description: 'Secure access to Rekha Print portal services.' },
-  { id: 39, category: 'print2', label: 'Manual Print Portal', url: 'https://jantapro.org.in/login', icon: Printer, description: 'Quick access to the manual document printing and management portal.' },
 
   // Online Birth Portal (Tab 6)
   { id: 40, category: 'birth', label: 'CRS Birth Registration', url: 'https://dc.crsorgi-gov.cc/general-public', icon: FileText, description: 'Public portal for national Civil Registration System birth registration services.' },
   { id: 41, category: 'birth', label: 'Birth v.1', url: 'https://crsi.crsorgi-gov.cc/general-public', icon: Search, description: 'Enhanced public access portal for CRS birth and death registration services.' },
   { id: 43, category: 'findmaster', label: 'FindMaster Login', url: 'https://findmaster.pro/login', icon: Globe, description: 'Main entry point for the FindMaster professional services platform.' },
+  { id: 45, category: 'manual-print-v2', label: 'Manual Print Portal v.2 Login', url: 'https://jantaportal.life/login.php', icon: Printer, description: 'Direct login for the Manual Print Portal v.2 services.' },
+  { id: 39, category: 'manual-print-v2', label: 'Manual Print Portal', url: 'https://jantapro.org.in/login', icon: Printer, description: 'Quick access to the manual document printing and management portal.' },
 ];
 
 const App: React.FC = () => {
