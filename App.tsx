@@ -64,7 +64,10 @@ const EXTERNAL_LINKS = [
   { id: 7, category: 'print2', label: 'VLE Print Services', url: 'https://vleprintportal.com/login.php', icon: FileSpreadsheet, description: 'Document processing for VLE operators.' },
   { id: 35, category: 'print2', label: 'NewSkill Prints', url: 'https://newskill.fun/login.php', icon: Printer, description: 'Access NewSkill integrated printing and document portal.' },
   { id: 30, category: 'print2', label: 'API Print Portal', url: 'https://apimarket.online/login', icon: Printer, description: 'Access the professional API Print Portal for high-volume document needs.' },
-  { id: 38, category: 'print2', label: 'Rekha Print Portal', url: 'https://rekhaprint.co/members/login', icon: Printer, description: 'Secure access to Rekha Print portal services.' },
+  { id: 38, category: 'print2', label: 'Rekha Print Portal', url: 'https://rekhaprint.co/', icon: Printer, description: 'Main landing page for Rekha Print services.' },
+  { id: 50, category: 'print2', label: 'Rekha Print Portal Login', url: 'https://rekhaprint.co/members/login', icon: Printer, description: 'Secure access to Rekha Print portal services.' },
+  { id: 46, category: 'print2', label: 'Aditya Print', url: 'https://adityaprint.in/members/login', icon: Printer, description: 'Access Aditya Print portal for document services.' },
+  { id: 48, category: 'print2', label: 'All-In-One Print', url: 'https://vleprint1.in/login.php', icon: Printer, description: 'Comprehensive printing solutions via the All-In-One Print portal.' },
 
   // Online Birth Portal (Tab 6)
   { id: 40, category: 'birth', label: 'CRS Birth Registration', url: 'https://dc.crsorgi-gov.cc/general-public', icon: FileText, description: 'Public portal for national Civil Registration System birth registration services.' },
