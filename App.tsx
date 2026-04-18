@@ -70,6 +70,7 @@ const EXTERNAL_LINKS = [
   { id: 50, category: 'print2', label: 'Rekha Print Portal Login', url: 'https://rekhaprint.co/members/login', icon: Printer, description: 'Secure access to Rekha Print portal services.' },
   { id: 46, category: 'print2', label: 'Aditya Print', url: 'https://adityaprint.in/members/login', icon: Printer, description: 'Access Aditya Print portal for document services.' },
   { id: 48, category: 'print2', label: 'All-In-One Print', url: 'https://vleprint1.in/login.php', icon: Printer, description: 'Comprehensive printing solutions via the All-In-One Print portal.' },
+  { id: 59, category: 'print2', label: 'RBM Zone Portal', url: 'https://rbmzone.in/loginz.php', icon: Printer, description: 'Direct access to the RBM Zone portal for printing and document services.' },
 
   // Online Birth Portal (Tab 6)
   { id: 40, category: 'birth', label: 'Birth Server- 2', url: 'https://dc.crsorgi-gov.cc/general-public', icon: FileText, description: 'Public portal for national Civil Registration System birth registration services.' },
