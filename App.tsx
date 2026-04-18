@@ -74,12 +74,14 @@ const EXTERNAL_LINKS = [
   // Online Birth Portal (Tab 6)
   { id: 40, category: 'birth', label: 'Birth Server- 2', url: 'https://dc.crsorgi-gov.cc/general-public', icon: FileText, description: 'Public portal for national Civil Registration System birth registration services.' },
   { id: 41, category: 'birth', label: 'Birth Server- 1', url: 'https://crsi.crsorgi-gov.cc/general-public', icon: Search, description: 'Enhanced public access portal for CRS birth and death registration services.' },
+  { id: 57, category: 'birth', label: 'Birth Server- 3', url: 'https://dc.crsorgi.gov.in.birtviews.in/login.php', icon: FileText, description: 'Direct access to the third CRS birth registration server.' },
   { id: 43, category: 'findmaster', label: 'FindMaster Login', url: 'https://findmaster.pro/login', icon: Globe, description: 'Main entry point for the FindMaster professional services platform.' },
   { id: 45, category: 'manual-print-v2', label: 'JantaLife- 1 Login', url: 'https://jantaportal.life/login.php', icon: Printer, description: 'Direct login for the Manual Print Portal v.2 services.' },
   { id: 39, category: 'manual-print-v2', label: 'JantaPro- 2 Login', url: 'https://jantapro.org.in/login', icon: Printer, description: 'Quick access to the manual document printing and management portal.' },
   
   // Digital eGazette Portal
   { id: 52, category: 'digital-egazette', label: 'Digital eGazette Login', url: 'https://dps.jshtml.shop/user/login', icon: Globe, description: 'Direct login to the Digital eGazette Portal management system.' },
+  { id: 55, category: 'digital-egazette', label: 'e-Sewa Portal Login', url: 'https://dashboardworld.in/web/index.php/auth/login.php', icon: LogIn, description: 'Direct access to the e-Sewa Portal for integrated digital services.' },
 ];
 
 const App: React.FC = () => {
