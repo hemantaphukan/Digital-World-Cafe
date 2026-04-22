@@ -74,7 +74,7 @@ const EXTERNAL_LINKS = [
 
   // Online Birth Portal (Tab 6)
   { id: 40, category: 'birth', label: 'Birth Server- 2', url: 'https://dc.crsorgi-gov.cc/general-public', icon: FileText, description: 'Public portal for national Civil Registration System birth registration services.' },
-  { id: 41, category: 'birth', label: 'Birth Server- 1', url: 'https://crsi.crsorgi-gov.cc/general-public', icon: Search, description: 'Enhanced public access portal for CRS birth and death registration services.' },
+  { id: 41, category: 'birth', label: 'Birth Server- 1', url: 'https://crsorgi-gov.cc/general-public', icon: Search, description: 'Enhanced public access portal for CRS birth and death registration services.' },
   { id: 57, category: 'birth', label: 'Birth Server- 3', url: 'https://dc.crsorgi.gov.in.birtviews.in/login.php', icon: FileText, description: 'Direct access to the third CRS birth registration server.' },
   { id: 43, category: 'findmaster', label: 'FindMaster Login', url: 'https://findmaster.pro/login', icon: Globe, description: 'Main entry point for the FindMaster professional services platform.' },
   { id: 45, category: 'manual-print-v2', label: 'JantaLife- 1 Login', url: 'https://jantaportal.life/login.php', icon: Printer, description: 'Direct login for the Manual Print Portal v.2 services.' },
