@@ -19,6 +19,7 @@ const CATEGORIES = [
   { id: 'findmaster', label: 'FindMaster Portal', icon: Globe },
   { id: 'manual-print-v2', label: 'Manual Print Portal v.2', icon: Printer },
   { id: 'digital-egazette', label: 'Digital eGazette Portal', icon: Globe },
+  { id: 'all-in-one-manual-print', label: 'All In One Manual Print', icon: Printer },
 ] as const;
 
 type CategoryId = typeof CATEGORIES[number]['id'];
@@ -86,6 +87,7 @@ const EXTERNAL_LINKS = [
   // Digital eGazette Portal
   { id: 52, category: 'digital-egazette', label: 'Digital eGazette Login', url: 'https://dps.jshtml.shop/user/login', icon: Globe, description: 'Direct login to the Digital eGazette Portal management system.' },
   { id: 55, category: 'digital-egazette', label: 'e-Sewa Portal Login', url: 'https://dashboardworld.in/web/index.php/auth/login.php', icon: LogIn, description: 'Direct access to the e-Sewa Portal for integrated digital services.' },
+  { id: 67, category: 'all-in-one-manual-print', label: 'All In One Manual Print Login', url: 'https://dc.crsorgi.gov.in.index.verrify.in/web/index.php/auth/login.php', icon: LogIn, description: 'Secure access to the All In One Manual Print Login portal.' },
 ];
 
 const App: React.FC = () => {
