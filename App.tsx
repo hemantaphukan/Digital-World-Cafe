@@ -60,18 +60,17 @@ const EXTERNAL_LINKS = [
 
   // Print Portals (Tab 2)
   { id: 4, category: 'print2', label: 'Print Fast Portal', url: 'https://printfastportals.com/members/login', icon: Printer, description: 'Cloud-based document printing and management.' },
-  { id: 37, category: 'print2', label: 'RC Print', url: 'http://172.206.22.92/index/', icon: Printer, description: 'High-speed registration certificate printing portal.' },
   { id: 5, category: 'print2', label: 'S2P Operations', url: 'https://servicetopoint.com/web/index.php/auth/login.php', icon: Zap, description: 'Service-to-Point business operational portal.' },
   { id: 31, category: 'print2', label: 'Print Card Portal', url: 'https://printscards.com/login.php', icon: Printer, description: 'Access the latest Print Card Portal for enhanced printing and card services.' },
   { id: 7, category: 'print2', label: 'VLE Print Services', url: 'https://vleprintportal.com/login.php', icon: FileSpreadsheet, description: 'Document processing for VLE operators.' },
   { id: 35, category: 'print2', label: 'NewSkill Prints', url: 'https://newskill.fun/login.php', icon: Printer, description: 'Access NewSkill integrated printing and document portal.' },
-  { id: 30, category: 'print2', label: 'API Print Portal', url: 'https://apimarket.online/login', icon: Printer, description: 'Access the professional API Print Portal for high-volume document needs.' },
   { id: 38, category: 'print2', label: 'Rekha Print Portal', url: 'https://rekhaprint.co/', icon: Printer, description: 'Main landing page for Rekha Print services.' },
   { id: 50, category: 'print2', label: 'Rekha Print Portal Login', url: 'https://rekhaprint.co/members/login', icon: Printer, description: 'Secure access to Rekha Print portal services.' },
   { id: 46, category: 'print2', label: 'Aditya Print', url: 'https://adityaprint.in/members/login', icon: Printer, description: 'Access Aditya Print portal for document services.' },
   { id: 48, category: 'print2', label: 'All-In-One Print', url: 'https://vleprint1.in/login.php', icon: Printer, description: 'Comprehensive printing solutions via the All-In-One Print portal.' },
   { id: 59, category: 'print2', label: 'RBM Zone Portal', url: 'https://rbmzone.in/loginz.php', icon: Printer, description: 'Direct access to the RBM Zone portal for printing and document services.' },
-  { id: 65, category: 'print2', label: 'Armitra Print Portal', url: 'https://armitra.in/login.php', icon: Printer, description: 'Direct access to the Armitra Print portal for document services.' },
+  { id: 65, category: 'print2', label: 'Armitra Print Portal Login', url: 'https://armitra.in/login.php', icon: Printer, description: 'Direct access to the Armitra Print portal for document services.' },
+  { id: 70, category: 'print2', label: 'Shyam Print Portal Login', url: 'https://newunique.verrify.in/login.php', icon: Printer, description: 'Direct access to the Shyam Print Portal for professional document services.' },
 
   // Online Birth Portal (Tab 6)
   { id: 40, category: 'birth', label: 'AS Birth Server- 2', url: 'https://dc.crsorgi-gov.cc/general-public', icon: FileText, description: 'Public portal for national Civil Registration System birth registration services.' },
