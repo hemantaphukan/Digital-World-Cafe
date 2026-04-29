@@ -17,7 +17,6 @@ const CATEGORIES = [
   { id: 'uid-user', label: 'UID User', icon: Fingerprint },
   { id: 'birth', label: 'Online Birth Portal', icon: FileText },
   { id: 'findmaster', label: 'FindMaster Portal', icon: Globe },
-  { id: 'manual-print-v2', label: 'Manual Print Portal v.2', icon: Printer },
   { id: 'digital-egazette', label: 'Digital eGazette Portal', icon: Globe },
   { id: 'all-in-one-manual-print', label: 'All In One Manual Print', icon: Printer },
 ] as const;
@@ -81,13 +80,14 @@ const EXTERNAL_LINKS = [
   { id: 61, category: 'birth', label: 'DL Birth Server- 2', url: 'https://dc.crsorgi.gov.in.web.dccertificate.in/login.php', icon: FileText, description: 'Access the fourth CRS birth registration server (DL Server 2).' },
   { id: 63, category: 'birth', label: 'DL Demo Birth Portal', url: 'https://crsorgi.gov.in.web.index.birthcetficate.co/dr_login.php', icon: FileText, description: 'Access the DL Demo Birth Portal for testing and demonstration.' },
   { id: 43, category: 'findmaster', label: 'FindMaster Login', url: 'https://findmaster.pro/login', icon: Globe, description: 'Main entry point for the FindMaster professional services platform.' },
-  { id: 45, category: 'manual-print-v2', label: 'JantaLife- 1 Login', url: 'https://jantaportal.life/login.php', icon: Printer, description: 'Direct login for the Manual Print Portal v.2 services.' },
-  { id: 39, category: 'manual-print-v2', label: 'JantaPro- 2 Login', url: 'https://jantapro.org.in/login', icon: Printer, description: 'Quick access to the manual document printing and management portal.' },
+  { id: 45, category: 'all-in-one-manual-print', label: 'JantaLife- 1 Login', url: 'https://jantaportal.life/login.php', icon: Printer, description: 'Direct login for the Manual Print Portal v.2 services.' },
+  { id: 39, category: 'all-in-one-manual-print', label: 'JantaPro- 2 Login', url: 'https://jantapro.org.in/login', icon: Printer, description: 'Quick access to the manual document printing and management portal.' },
   
   // Digital eGazette Portal
   { id: 52, category: 'digital-egazette', label: 'Digital eGazette Login', url: 'https://dps.jshtml.shop/user/login', icon: Globe, description: 'Direct login to the Digital eGazette Portal management system.' },
   { id: 55, category: 'digital-egazette', label: 'e-Sewa Portal Login', url: 'https://dashboardworld.in/web/index.php/auth/login.php', icon: LogIn, description: 'Direct access to the e-Sewa Portal for integrated digital services.' },
-  { id: 67, category: 'all-in-one-manual-print', label: 'All In One Manual Print Login', url: 'https://dc.crsorgi.gov.in.index.verrify.in/web/index.php/auth/login.php', icon: LogIn, description: 'Secure access to the All In One Manual Print Login portal.' },
+  { id: 67, category: 'all-in-one-manual-print', label: 'All In One Manual Print Login', url: 'https://dc.crsorgi.gov.in.dc-verify.co.in/web/index.php/login.php', icon: LogIn, description: 'Secure access to the All In One Manual Print Login portal.' },
+  { id: 68, category: 'all-in-one-manual-print', label: 'Manual Print Server- 1', url: 'https://rtps.verrify.in/login.php', icon: LogIn, description: 'Direct access to the Manual Print Server- 1 portal.' },
 ];
 
 const App: React.FC = () => {
