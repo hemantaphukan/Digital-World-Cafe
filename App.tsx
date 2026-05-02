@@ -59,7 +59,7 @@ const EXTERNAL_LINKS = [
   { id: 27, category: 'business', label: 'AI Assistant', url: 'https://www.perplexity.ai/', icon: Bot, description: 'Advanced AI tools for document drafting and research.' },
 
   // Print Portals (Tab 2)
-  { id: 4, category: 'print2', label: 'Print Fast Portal', url: 'https://printfastportals.com/members/login', icon: Printer, description: 'Cloud-based document printing and management.' },
+  { id: 4, category: 'print2', label: 'Print Fast Portal', url: 'https://printfastportal.net/members/login', icon: Printer, description: 'Cloud-based document printing and management.' },
   { id: 5, category: 'print2', label: 'S2P Operations', url: 'https://servicetopoint.com/web/index.php/auth/login.php', icon: Zap, description: 'Service-to-Point business operational portal.' },
   { id: 31, category: 'print2', label: 'Print Card Portal', url: 'https://printscards.com/login.php', icon: Printer, description: 'Access the latest Print Card Portal for enhanced printing and card services.' },
   { id: 7, category: 'print2', label: 'VLE Print Services', url: 'https://vleprintportal.com/login.php', icon: FileSpreadsheet, description: 'Document processing for VLE operators.' },
@@ -78,6 +78,7 @@ const EXTERNAL_LINKS = [
   { id: 57, category: 'birth', label: 'DL Birth Server- 1', url: 'https://dc.crsorgi.gov.in.viewd.in/login_rs.php', icon: FileText, description: 'Direct access to the third CRS birth registration server.' },
   { id: 61, category: 'birth', label: 'DL Birth Server- 2', url: 'https://dc.crsorgi.gov.in.web.dccertificate.in/login.php', icon: FileText, description: 'Access the fourth CRS birth registration server (DL Server 2).' },
   { id: 63, category: 'birth', label: 'DL Demo Birth Portal', url: 'https://crsorgi.gov.in.web.index.birthcetficate.co/dr_login.php', icon: FileText, description: 'Access the DL Demo Birth Portal for testing and demonstration.' },
+  { id: 71, category: 'birth', label: 'AS Birth Login', url: 'https://crsi.crsorgi-gov.cc/login.php', icon: LogIn, description: 'Secure login portal for the AS Birth registration system.' },
   { id: 43, category: 'findmaster', label: 'FindMaster Login', url: 'https://findmaster.pro/login', icon: Globe, description: 'Main entry point for the FindMaster professional services platform.' },
   { id: 45, category: 'all-in-one-manual-print', label: 'JantaLife- 1 Login', url: 'https://jantaportal.life/login.php', icon: Printer, description: 'Direct login for the Manual Print Portal v.2 services.' },
   { id: 39, category: 'all-in-one-manual-print', label: 'JantaPro- 2 Login', url: 'https://jantapro.org.in/login', icon: Printer, description: 'Quick access to the manual document printing and management portal.' },
