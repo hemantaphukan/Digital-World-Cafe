@@ -66,7 +66,7 @@ const EXTERNAL_LINKS = [
   { id: 35, category: 'print2', label: 'NewSkill Prints', url: 'https://newskill.fun/login.php', icon: Printer, description: 'Access NewSkill integrated printing and document portal.' },
   { id: 38, category: 'print2', label: 'Rekha Print Portal', url: 'https://rekhaprint.co/', icon: Printer, description: 'Main landing page for Rekha Print services.' },
   { id: 50, category: 'print2', label: 'Rekha Print Portal Login', url: 'https://rekhaprint.co/members/login', icon: Printer, description: 'Secure access to Rekha Print portal services.' },
-  { id: 46, category: 'print2', label: 'Aditya Print', url: 'https://adityaprint.in/members/login', icon: Printer, description: 'Access Aditya Print portal for document services.' },
+  { id: 46, category: 'print2', label: 'Manual Print New', url: 'https://manualprintportal.xyz/login.php', icon: Printer, description: 'Access Manual Print New portal for document services.' },
   { id: 48, category: 'print2', label: 'All-In-One Print', url: 'https://vleprint1.in/login.php', icon: Printer, description: 'Comprehensive printing solutions via the All-In-One Print portal.' },
   { id: 59, category: 'print2', label: 'RBM Zone Portal', url: 'https://rbmzone.in/loginok', icon: Printer, description: 'Direct access to the RBM Zone portal for printing and document services.' },
   { id: 65, category: 'print2', label: 'Armitra Print Portal Login', url: 'https://armitra.in/login.php', icon: Printer, description: 'Direct access to the Armitra Print portal for document services.' },
