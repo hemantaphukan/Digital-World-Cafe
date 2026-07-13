@@ -45,7 +45,7 @@ const EXTERNAL_LINKS = [
   { id: 16, category: 'transport', label: 'Bike & Car Details', url: 'https://vahan.parivahan.gov.in/nrservices/faces/user/citizen/citizenlogin.xhtml', icon: FileSearch, description: 'Access national vehicle registration details.' },
   { id: 17, category: 'transport', label: 'Train Booking', url: 'https://www.irctc.co.in/nget/train-search', icon: Train, description: 'Official IRCTC Indian Railways ticket portal.' },
   { id: 19, category: 'transport', label: 'Flight Booking', url: 'https://www.skyscanner.co.in/', icon: Plane, description: 'Search for best flight deals via Skyscanner.' },
-  { id: 28, category: 'transport', label: 'Learner License', url: 'https://sarathi.parivahan.gov.in/sarathiservice/stateSelection.do', icon: Car, description: 'Apply for learner and driving licenses.' },
+  { id: 28, category: 'transport', label: 'Vehicle to Mobile Linking', url: 'https://vahan.parivahan.gov.in/vahanservice/vahan/ui/statevalidation/homepage.xhtml', icon: Car, description: 'Link your mobile number to your vehicle registration record online.' },
   
   // Business & Tools (Tab 1)
   { id: 3, category: 'business', label: 'eSTAMP Online', url: 'https://www.shcilestamp.com/OnlineStamping/OlnEsi', icon: LogIn, description: 'Access SHCIL e-Stamping and legal services.' },
@@ -62,12 +62,10 @@ const EXTERNAL_LINKS = [
   { id: 4, category: 'print2', label: 'Print Fast Portal', url: 'https://printfastportal.net/members/login', icon: Printer, description: 'Cloud-based document printing and management.' },
   { id: 5, category: 'print2', label: 'S2P Operations', url: 'https://servicetopoint.com/web/index.php/auth/login.php', icon: Zap, description: 'Service-to-Point business operational portal.' },
   { id: 31, category: 'print2', label: 'Print Card Portal', url: 'https://printscards.com/login.php', icon: Printer, description: 'Access the latest Print Card Portal for enhanced printing and card services.' },
-  { id: 7, category: 'print2', label: 'VLE Print Services', url: 'https://vleprintportal.com/login.php', icon: FileSpreadsheet, description: 'Document processing for VLE operators.' },
-  { id: 35, category: 'print2', label: 'NewSkill Prints', url: 'https://newskill.fun/login.php', icon: Printer, description: 'Access NewSkill integrated printing and document portal.' },
+  { id: 7, category: 'print2', label: 'Janta Print Services', url: 'https://titan.datasearchpro.shop/', icon: FileSpreadsheet, description: 'Document processing for VLE operators.' },
   { id: 38, category: 'print2', label: 'Rekha Print Portal', url: 'https://rekhaprint.co/', icon: Printer, description: 'Main landing page for Rekha Print services.' },
   { id: 50, category: 'print2', label: 'Rekha Print Portal Login', url: 'https://rekhaprint.co/members/login', icon: Printer, description: 'Secure access to Rekha Print portal services.' },
   { id: 46, category: 'print2', label: 'Manual Print New', url: 'https://manualprintportal.xyz/login.php', icon: Printer, description: 'Access Manual Print New portal for document services.' },
-  { id: 48, category: 'print2', label: 'All-In-One Print', url: 'https://vleprint1.in/login.php', icon: Printer, description: 'Comprehensive printing solutions via the All-In-One Print portal.' },
   { id: 59, category: 'print2', label: 'RBM Zone Portal', url: 'https://rbmzone.in/loginok', icon: Printer, description: 'Direct access to the RBM Zone portal for printing and document services.' },
   { id: 65, category: 'print2', label: 'Armitra Print Portal Login', url: 'https://armitra.in/login.php', icon: Printer, description: 'Direct access to the Armitra Print portal for document services.' },
   { id: 70, category: 'print2', label: 'Shyam Print Portal Login', url: 'https://newunique.verrify.in/login.php', icon: Printer, description: 'Direct access to the Shyam Print Portal for professional document services.' },
