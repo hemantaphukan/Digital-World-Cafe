@@ -41,7 +41,7 @@ const EXTERNAL_LINKS = [
   
   // Transport & Travel (Tab 3)
   { id: 1, category: 'transport', label: 'PUCC Fine Check', url: 'https://puc.parivahan.gov.in/puc/views/OnlineFinePayment.xhtml', icon: FileText, description: 'Check and pay pollution-related fines.' },
-  { id: 2, category: 'transport', label: 'PUCC Online 0.1', url: 'https://695a8b13b07f32612f9f25da--shiny-frangipane-72ccc9.netlify.app/', icon: Car, description: 'Primary portal for PUCC registration.' },
+  { id: 2, category: 'transport', label: 'PUCC Mobile Check', url: 'https://puc.parivahan.gov.in/puc/views/PucCertificateHistory.xhtml', icon: Car, description: 'Check PUCC registration history by vehicle registration number.' },
   { id: 16, category: 'transport', label: 'Bike & Car Details', url: 'https://vahan.parivahan.gov.in/nrservices/faces/user/citizen/citizenlogin.xhtml', icon: FileSearch, description: 'Access national vehicle registration details.' },
   { id: 17, category: 'transport', label: 'Train Booking', url: 'https://www.irctc.co.in/nget/train-search', icon: Train, description: 'Official IRCTC Indian Railways ticket portal.' },
   { id: 19, category: 'transport', label: 'Flight Booking', url: 'https://www.skyscanner.co.in/', icon: Plane, description: 'Search for best flight deals via Skyscanner.' },
