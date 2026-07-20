@@ -82,9 +82,9 @@ const EXTERNAL_LINKS = [
   { id: 39, category: 'all-in-one-manual-print', label: 'JantaPro- 2 Login', url: 'https://jantapro.org.in/login', icon: Printer, description: 'Quick access to the manual document printing and management portal.' },
   
   // Digital eGazette Portal
-  { id: 52, category: 'digital-egazette', label: 'Digital eGazette Login', url: 'https://dps.jshtml.xyz/user/login', icon: Globe, description: 'Direct login to the Digital eGazette Portal management system.' },
-  { id: 55, category: 'digital-egazette', label: 'e-Sewa Portal Login', url: 'https://dashboardworld.in/web/index.php/auth/login.php', icon: LogIn, description: 'Direct access to the e-Sewa Portal for integrated digital services.' },
-  { id: 67, category: 'all-in-one-manual-print', label: 'All In One Manual Print Login', url: 'https://dc.crsorgi.gov.in.dc-verify.co.in/web/index.php/login.php', icon: LogIn, description: 'Secure access to the All In One Manual Print Login portal.' },
+  { id: 52, category: 'digital-egazette', label: 'DPS e-Services Login', url: 'https://dps.jshtml.xyz/user/login', icon: Globe, description: 'Direct login to the DPS e-Services Portal management system.' },
+  { id: 55, category: 'digital-egazette', label: 'DW-World Services Login', url: 'https://dashboardworld.in/web/index.php/auth/login.php', icon: LogIn, description: 'Direct access to the DW-World Services for integrated digital services.' },
+  { id: 67, category: 'digital-egazette', label: 'Shyam All In One Login', url: 'https://dc.crsorgi.gov.in.verify-dc.info/web/index.php/login.php', icon: LogIn, description: 'Secure access to the Shyam All In One Login portal.' },
   { id: 68, category: 'all-in-one-manual-print', label: 'Manual Print Server- 1', url: 'https://rtps.verrify.in/login.php', icon: LogIn, description: 'Direct access to the Manual Print Server- 1 portal.' },
 ];
 
