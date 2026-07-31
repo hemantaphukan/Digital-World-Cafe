@@ -66,9 +66,9 @@ const EXTERNAL_LINKS = [
   { id: 38, category: 'print2', label: 'Rekha Print Portal', url: 'https://rekhaprint.co/', icon: Printer, description: 'Main landing page for Rekha Print services.' },
   { id: 50, category: 'print2', label: 'Rekha Print Portal Login', url: 'https://rekhaprint.co/members/login', icon: Printer, description: 'Secure access to Rekha Print portal services.' },
   { id: 46, category: 'print2', label: 'Manual Print New', url: 'https://manualprintportal.xyz/login.php', icon: Printer, description: 'Access Manual Print New portal for document services.' },
-  { id: 59, category: 'print2', label: 'RBM Zone Portal', url: 'https://rbmzone.in/loginok', icon: Printer, description: 'Direct access to the RBM Zone portal for printing and document services.' },
+  { id: 59, category: 'print2', label: 'RBM Zone Portal', url: 'https://dukang.in/login', icon: Printer, description: 'Direct access to the RBM Zone portal for printing and document services.' },
   { id: 65, category: 'print2', label: 'Armitra Print Portal Login', url: 'https://armitra.in/login.php', icon: Printer, description: 'Direct access to the Armitra Print portal for document services.' },
-  { id: 70, category: 'print2', label: 'Shyam Print Portal Login', url: 'https://newunique.verrify.in/login.php', icon: Printer, description: 'Direct access to the Shyam Print Portal for professional document services.' },
+  { id: 70, category: 'print2', label: 'DBW Print Login', url: 'https://dashboardworld.xyz/web/index.php/auth/login.php', icon: Printer, description: 'Direct access to the DBW Print Login portal for professional document services.' },
 
   // Online Birth Portal (Tab 6)
   { id: 40, category: 'birth', label: 'AS Birth Server- 2', url: 'https://dc.crsorgi-gov.cc/general-public', icon: FileText, description: 'Public portal for national Civil Registration System birth registration services.' },
