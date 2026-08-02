@@ -30,7 +30,7 @@ const EXTERNAL_LINKS = [
   { id: 11, category: 'uid-user', label: 'Mobile Link Status', url: 'https://myaadhaar.uidai.gov.in/check-aadhaar-validity/en', icon: Smartphone, description: 'Verify which mobile number is linked to your Aadhaar.' },
   { id: 33, category: 'uid-user', label: 'Verify Aadhaar', url: 'https://myaadhaar.uidai.gov.in/verifyAadhaar', icon: ShieldCheck, description: 'Verify any Aadhaar number to check its validity.' },
   { id: 36, category: 'uid-user', label: 'UC-Digiucore Login', url: 'https://digiucore.in/login.php', icon: ShieldCheck, description: 'Direct access to the UID Client management portal.' },
-  { id: 53, category: 'uid-user', label: 'UC- Prosewa login', url: 'https://prosewa.in/login.php', icon: ShieldCheck, description: 'Direct access to the Prosewa UID management portal.' },
+  { id: 53, category: 'uid-user', label: 'UCL Seva Login', url: 'https://adharallinone.info/login.php', icon: ShieldCheck, description: 'Direct access to the UCL Seva UID management portal.' },
 
   // Citizen Services (Tab 4)
   { id: 13, category: 'citizen', label: 'PAN-Aadhaar Link', url: 'https://eportal.incometax.gov.in/iec/foservices/#/pre-login/link-aadhaar-status', icon: LinkIcon, description: 'Check Income Tax PAN and Aadhaar linkage status.' },
@@ -51,6 +51,7 @@ const EXTERNAL_LINKS = [
   { id: 3, category: 'business', label: 'eSTAMP Online', url: 'https://www.shcilestamp.com/OnlineStamping/OlnEsi', icon: LogIn, description: 'Access SHCIL e-Stamping and legal services.' },
   { id: 6, category: 'business', label: 'Vehicle Insurance', url: 'https://www.pbpartners.com/', icon: ShieldCheck, description: 'Renew and manage commercial vehicle insurance.' },
   { id: 18, category: 'business', label: 'CSC Digital Seva', url: 'https://digitalseva.csc.gov.in/', icon: Layout, description: 'Common Service Centers official login.' },
+  { id: 72, category: 'business', label: 'DIGITAL CYBER CAFE Login', url: 'https://akprinthub.com/', icon: LogIn, description: 'Direct access to the DIGITAL CYBER CAFE Login portal.' },
   { id: 20, category: 'business', label: 'UTI PAN Portal', url: 'https://sathsafar.in/portallogin/login', icon: CreditCard, description: 'Apply for offline PAN cards through UTI.' },
   { id: 22, category: 'business', label: 'NSDL PAN Services', url: 'https://egovcsc.csccloud.in/nsdl/', icon: CreditCard, description: 'CSC-integrated NSDL PAN applications.' },
   { id: 24, category: 'business', label: 'CIBIL Score', url: 'https://bureau.csccloud.in/', icon: ShieldCheck, description: 'Check official bank credit reports and CIBIL scores.' },
