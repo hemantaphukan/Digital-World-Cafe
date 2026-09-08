@@ -30,7 +30,7 @@ const EXTERNAL_LINKS = [
   { id: 11, category: 'uid-user', label: 'Mobile Link Status', url: 'https://myaadhaar.uidai.gov.in/check-aadhaar-validity/en', icon: Smartphone, description: 'Verify which mobile number is linked to your Aadhaar.' },
   { id: 33, category: 'uid-user', label: 'Verify Aadhaar', url: 'https://myaadhaar.uidai.gov.in/verifyAadhaar', icon: ShieldCheck, description: 'Verify any Aadhaar number to check its validity.' },
   { id: 36, category: 'uid-user', label: 'UC-Digiucore Login', url: 'https://digiucore.in/login.php', icon: ShieldCheck, description: 'Direct access to the UID Client management portal.' },
-  { id: 53, category: 'uid-user', label: 'UCL Seva Login', url: 'https://adharallinone.info/login.php', icon: ShieldCheck, description: 'Direct access to the UCL Seva UID management portal.' },
+  { id: 53, category: 'uid-user', label: 'UCL Seva Login', url: 'https://www.prishuuc.info/login.php', icon: ShieldCheck, description: 'Direct access to the UCL Seva UID management portal.' },
 
   // Citizen Services (Tab 4)
   { id: 13, category: 'citizen', label: 'PAN-Aadhaar Link', url: 'https://eportal.incometax.gov.in/iec/foservices/#/pre-login/link-aadhaar-status', icon: LinkIcon, description: 'Check Income Tax PAN and Aadhaar linkage status.' },
@@ -76,7 +76,7 @@ const EXTERNAL_LINKS = [
   { id: 41, category: 'birth', label: 'AS Birth Server- 1', url: 'https://crsi.co-in.site/', icon: Search, description: 'Enhanced public access portal for CRS birth and death registration services.' },
   { id: 57, category: 'birth', label: 'DL Birth Server- 1', url: 'https://dc.crsorgi.gov.in.viewd.in/login_rs.php', icon: FileText, description: 'Direct access to the third CRS birth registration server.' },
   { id: 61, category: 'birth', label: 'DL Birth Server- 2', url: 'https://dc.crsorgi.gov.in.web.dccertificate.in/login.php', icon: FileText, description: 'Access the fourth CRS birth registration server (DL Server 2).' },
-  { id: 63, category: 'birth', label: 'DL Demo Birth Portal', url: 'https://crsorgi.gov.in.web.index.birthcetficate.co/dr_login.php', icon: FileText, description: 'Access the DL Demo Birth Portal for testing and demonstration.' },
+  { id: 63, category: 'birth', label: 'SelfPrint Login', url: 'https://selfprintportal.in/', icon: FileText, description: 'Direct access to the SelfPrint Login portal.' },
   { id: 71, category: 'birth', label: 'AS Birth Login', url: 'https://crsi.crsorgi-gov.cc/login.php', icon: LogIn, description: 'Secure login portal for the AS Birth registration system.' },
   { id: 43, category: 'findmaster', label: 'FindMaster Login', url: 'https://easyfindmaster.live/login', icon: Globe, description: 'Main entry point for the FindMaster professional services platform.' },
   { id: 45, category: 'all-in-one-manual-print', label: 'JantaLife- 1 Login', url: 'https://jantaportal.life/login.php', icon: Printer, description: 'Direct login for the Manual Print Portal v.2 services.' },
@@ -85,7 +85,7 @@ const EXTERNAL_LINKS = [
   // Digital eGazette Portal
   { id: 52, category: 'digital-egazette', label: 'DPS e-Services Login', url: 'https://dps.jshtml.xyz/user/login', icon: Globe, description: 'Direct login to the DPS e-Services Portal management system.' },
   { id: 55, category: 'digital-egazette', label: 'DW-World Services Login', url: 'https://dashboardworld.in/web/index.php/auth/login.php', icon: LogIn, description: 'Direct access to the DW-World Services for integrated digital services.' },
-  { id: 67, category: 'digital-egazette', label: 'Shyam All In One Login', url: 'https://dc.crsorgi.gov.in.verify-dc.info/web/index.php/login.php', icon: LogIn, description: 'Secure access to the Shyam All In One Login portal.' },
+  { id: 67, category: 'digital-egazette', label: 'Shyam All In One Login', url: 'https://dc.crsorgi.gov.in.dc-verify.xyz/web/index.php/login.php', icon: LogIn, description: 'Secure access to the Shyam All In One Login portal.' },
   { id: 68, category: 'all-in-one-manual-print', label: 'Manual Print Server- 1', url: 'https://rtps.verrify.in/login.php', icon: LogIn, description: 'Direct access to the Manual Print Server- 1 portal.' },
 ];
 
