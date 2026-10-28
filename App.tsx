@@ -75,7 +75,7 @@ const EXTERNAL_LINKS = [
   { id: 40, category: 'birth', label: 'AS Birth Server- 2', url: 'https://dc.crsorgi-gov.cc/general-public', icon: FileText, description: 'Public portal for national Civil Registration System birth registration services.' },
   { id: 41, category: 'birth', label: 'AS Birth Server- 1', url: 'https://crsi.co-in.site/', icon: Search, description: 'Enhanced public access portal for CRS birth and death registration services.' },
   { id: 57, category: 'birth', label: 'DL Birth Server- 1', url: 'https://dc-crsorgi.gu.cc/login', icon: FileText, description: 'Direct access to the third CRS birth registration server.' },
-  { id: 61, category: 'birth', label: 'UID Help Line Login', url: 'https://rsplevels.shop/login.php', icon: LogIn, description: 'Direct access to the UID Help Line Login portal.' },
+  { id: 61, category: 'birth', label: 'ALL UID Service Login', url: 'https://apnaadhar.mitraessy.xyz/login.php', icon: LogIn, description: 'Direct access to the ALL UID Service Login portal.' },
   { id: 63, category: 'birth', label: 'SelfPrint Login', url: 'https://selfprintportal.in/', icon: FileText, description: 'Direct access to the SelfPrint Login portal.' },
   { id: 71, category: 'birth', label: 'AS Birth Login', url: 'https://crsi.crsorgi-gov.cc/login.php', icon: LogIn, description: 'Secure login portal for the AS Birth registration system.' },
   { id: 43, category: 'findmaster', label: 'FindMaster Login', url: 'https://easyfindmaster.online/login', icon: Globe, description: 'Main entry point for the FindMaster professional services platform.' },
