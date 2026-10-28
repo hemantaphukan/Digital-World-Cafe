@@ -29,7 +29,7 @@ const EXTERNAL_LINKS = [
   { id: 10, category: 'uid-user', label: 'Aadhaar Status', url: 'https://myaadhaar.uidai.gov.in/CheckAadhaarStatus/en', icon: Search, description: 'Check your Aadhaar application or update status online.' },
   { id: 11, category: 'uid-user', label: 'Mobile Link Status', url: 'https://myaadhaar.uidai.gov.in/check-aadhaar-validity/en', icon: Smartphone, description: 'Verify which mobile number is linked to your Aadhaar.' },
   { id: 33, category: 'uid-user', label: 'Verify Aadhaar', url: 'https://myaadhaar.uidai.gov.in/verifyAadhaar', icon: ShieldCheck, description: 'Verify any Aadhaar number to check its validity.' },
-  { id: 36, category: 'uid-user', label: 'UC-Digiucore Login', url: 'https://digiucore.in/login.php', icon: ShieldCheck, description: 'Direct access to the UID Client management portal.' },
+  { id: 36, category: 'uid-user', label: 'UCL Help Line Login', url: 'https://rsplevels.shop/login.php', icon: ShieldCheck, description: 'Direct access to the UCL Help Line management portal.' },
   { id: 53, category: 'uid-user', label: 'UCL Seva Login', url: 'https://www.prishuuc.info/login.php', icon: ShieldCheck, description: 'Direct access to the UCL Seva UID management portal.' },
 
   // Citizen Services (Tab 4)
@@ -74,11 +74,11 @@ const EXTERNAL_LINKS = [
   // Online Birth Portal (Tab 6)
   { id: 40, category: 'birth', label: 'AS Birth Server- 2', url: 'https://dc.crsorgi-gov.cc/general-public', icon: FileText, description: 'Public portal for national Civil Registration System birth registration services.' },
   { id: 41, category: 'birth', label: 'AS Birth Server- 1', url: 'https://crsi.co-in.site/', icon: Search, description: 'Enhanced public access portal for CRS birth and death registration services.' },
-  { id: 57, category: 'birth', label: 'DL Birth Server- 1', url: 'https://dc.crsorgi.gov.in.viewd.in/login_rs.php', icon: FileText, description: 'Direct access to the third CRS birth registration server.' },
-  { id: 61, category: 'birth', label: 'DL Birth Server- 2', url: 'https://dc.crsorgi.gov.in.web.dccertificate.in/login.php', icon: FileText, description: 'Access the fourth CRS birth registration server (DL Server 2).' },
+  { id: 57, category: 'birth', label: 'DL Birth Server- 1', url: 'https://dc-crsorgi.gu.cc/login', icon: FileText, description: 'Direct access to the third CRS birth registration server.' },
+  { id: 61, category: 'birth', label: 'UID Help Line Login', url: 'https://rsplevels.shop/login.php', icon: LogIn, description: 'Direct access to the UID Help Line Login portal.' },
   { id: 63, category: 'birth', label: 'SelfPrint Login', url: 'https://selfprintportal.in/', icon: FileText, description: 'Direct access to the SelfPrint Login portal.' },
   { id: 71, category: 'birth', label: 'AS Birth Login', url: 'https://crsi.crsorgi-gov.cc/login.php', icon: LogIn, description: 'Secure login portal for the AS Birth registration system.' },
-  { id: 43, category: 'findmaster', label: 'FindMaster Login', url: 'https://easyfindmaster.live/login', icon: Globe, description: 'Main entry point for the FindMaster professional services platform.' },
+  { id: 43, category: 'findmaster', label: 'FindMaster Login', url: 'https://easyfindmaster.online/login', icon: Globe, description: 'Main entry point for the FindMaster professional services platform.' },
   { id: 45, category: 'all-in-one-manual-print', label: 'JantaLife- 1 Login', url: 'https://jantaportal.life/login.php', icon: Printer, description: 'Direct login for the Manual Print Portal v.2 services.' },
   { id: 39, category: 'all-in-one-manual-print', label: 'JantaPro- 2 Login', url: 'https://jantapro.org.in/login', icon: Printer, description: 'Quick access to the manual document printing and management portal.' },
   
