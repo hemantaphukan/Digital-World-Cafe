@@ -63,7 +63,7 @@ const EXTERNAL_LINKS = [
   { id: 4, category: 'print2', label: 'Print Fast Portal', url: 'https://printfastportal.net/members/login', icon: Printer, description: 'Cloud-based document printing and management.' },
   { id: 5, category: 'print2', label: 'S2P Operations', url: 'https://servicetopoint.com/web/index.php/auth/login.php', icon: Zap, description: 'Service-to-Point business operational portal.' },
   { id: 31, category: 'print2', label: 'Print Card Portal', url: 'https://printscards.com/login.php', icon: Printer, description: 'Access the latest Print Card Portal for enhanced printing and card services.' },
-  { id: 7, category: 'print2', label: 'Janta Print Services', url: 'https://titan.datasearchpro.shop/', icon: FileSpreadsheet, description: 'Document processing for VLE operators.' },
+  { id: 7, category: 'print2', label: 'Print Kro Free Login', url: 'https://print.csctool.info/dashboard/login.php', icon: Printer, description: 'Direct access to the Print Kro Free Login portal.' },
   { id: 38, category: 'print2', label: 'Rekha Print Portal', url: 'https://rekhaprint.co/', icon: Printer, description: 'Main landing page for Rekha Print services.' },
   { id: 50, category: 'print2', label: 'Rekha Print Portal Login', url: 'https://rekhaprint.co/members/login', icon: Printer, description: 'Secure access to Rekha Print portal services.' },
   { id: 46, category: 'print2', label: 'Manual Print New', url: 'https://manualprintportal.xyz/login.php', icon: Printer, description: 'Access Manual Print New portal for document services.' },
